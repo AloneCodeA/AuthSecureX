@@ -15,9 +15,6 @@ AuthSecureX is a library utilizing TEA (Tiny Encryption Algorithm) and XCBC for 
 
 ### Installation
 1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/AuthSecureX.git
-   ```
 
 2. **Open the Script**: Once cloned, you can open the main script file (e.g., `auth_script.ahk`) using AutoHotkey to run or edit.
 
